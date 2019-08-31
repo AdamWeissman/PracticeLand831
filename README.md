@@ -1,3 +1,4 @@
+gi<<<<<<< HEAD
 cd <<<<<<< HEAD
 # Git Basics Lab
 
@@ -150,6 +151,10 @@ your personal GitHub account.
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/git-remotes-and-github-lab' title='Git Remotes + GitHub Lab'>Git Remotes + GitHub Code-Along</a> on Learn.co and start learning to code for free.</p>
 
 
+=======
+<<<<<<< HEAD
+# PracticeLand831b
+>>>>>>> 650bc51b1a396d32359af574bc15ad247227087e
 =======
 This is my readme file
 >>>>>>> f2c46da1b1bc8bc91cb1a434913a4f84b17a810d
